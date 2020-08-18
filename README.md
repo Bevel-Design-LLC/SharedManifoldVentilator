@@ -1,7 +1,7 @@
 # SharedManifoldVentilator
 Share Manifold Ventilator
 
-##Summary
+## Summary
 The Shared Manifold Ventilator (SMV) is a ventilator design that achieves low cost per
 patient and uses commercially available parts for quick assembly. One of the ways the
 SMV reduces cost is by consolidating pressure regulation. There are three manifolds
